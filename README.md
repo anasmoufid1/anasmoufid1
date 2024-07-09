@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moufid Anas</h1>
 <h3 align="center">I am deeply fascinated by the intersection of data science and technology. My passion lies in harnessing the power of machine learning, artificial intelligence, and computer vision to drive innovation and solve real-world problems. I thrive on exploring new ideas and pushing the boundaries of what is possible with data.</h3>
 
-- 📫 How to reach me **anas.moufid1@usmba.ac.ma**
+- 📫 How to reach me [anas.moufid1@usmba.ac.ma](mailto:anas.moufid1@usmba.ac.ma)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QM2yLdntjvDLayeGLIrda8GhtfrHVQL3](https://drive.google.com/file/d/1QM2yLdntjvDLayeGLIrda8GhtfrHVQL3)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QM2yLdntjvDLayeGLIrda8GhtfrHVQL3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
